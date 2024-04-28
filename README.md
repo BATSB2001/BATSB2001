@@ -1,12 +1,8 @@
-### Hi there 👋
-I'm currently learning python on Visual studio code
-You can reach me at boluwatife.ats.b@gmail.com
-<!--
-**BATSB2001/BATSB2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WELCOME 👋
+-My name is Bolu
 
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- ⚡ Fun fact: ...
+I'm currently learning python on Visual studio code with the HyperionDev Online coding bootcamp 
+
+💬 You can reach me at boluwatife.ats.b@gmail.com 
+Ask me about TEKKEN
+⚡ making a game someday is the game plan
